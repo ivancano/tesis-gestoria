@@ -1,0 +1,6 @@
+backend/gestoria-backend/node_modules
+backend/gestoria-backend/yarn.lock
+
+
+frontend/node_modules
+frontend/package-lock.json
